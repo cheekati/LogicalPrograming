@@ -1,0 +1,15 @@
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\SampleProjects.exe
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\SampleProjects.deps.json
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\SampleProjects.runtimeconfig.json
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\SampleProjects.dll
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\ref\SampleProjects.dll
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\bin\Debug\net6.0\SampleProjects.pdb
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.AssemblyInfoInputs.cache
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.AssemblyInfo.cs
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.dll
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\ref\SampleProjects.dll
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.pdb
+C:\Users\ganes\source\repos\SampleProjects\SampleProjects\obj\Debug\net6.0\SampleProjects.genruntimeconfig.cache
